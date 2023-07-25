@@ -100,5 +100,5 @@ http://localhost:8000/products/:id/update_quantity/?number=10
 
 ## Author
 
-- [@HarshitSingh45](https://www.github.com/HarshitSingh45)
+- [@Shubham Rai](https://github.com/shubhamrai11/eCommerce-API.git)
 
