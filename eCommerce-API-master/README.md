@@ -23,7 +23,7 @@ To setup this project, run the following commands on your terminal
  1. Clone the project
 
 ```bash
- https://github.com/HarshitSingh45/eCommerce-API.git
+ https://github.com/shubhamrai11/eCommerce-API.git
 ```
 
 2. Change directory to Ecomerce-API 
