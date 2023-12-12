@@ -102,3 +102,7 @@ http://localhost:8000/products/:id/update_quantity/?number=10
 
 - [@Shubham Rai](https://github.com/shubhamrai11/eCommerce-API.git)
 
+
+## demo
+https://github.com/shubhamrai11/eCommerce-API/tree/main/eCommerce-API-master
+
