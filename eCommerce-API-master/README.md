@@ -104,5 +104,7 @@ http://localhost:8000/products/:id/update_quantity/?number=10
 
 
 ## demo
-https://github.com/shubhamrai11/eCommerce-API/tree/main/eCommerce-API-master
+ https://react-ecommerce-coding-ninja.vercel.app/
+
+
 
